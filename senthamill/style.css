@@ -1,0 +1,31 @@
+.body{
+    background-image: url(assets/image1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat ;
+    min-width: 100%;
+    min-height: 100vh;
+}
+.nav-link {
+    margin-left: 50px;
+    font-weight: 600; 
+}
+.nav-link:hover{
+    text-shadow: 2px 2px 12px rgb(16, 15, 15);
+}
+.text{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+}
+.headding{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 80px;
+}
+.button{
+    margin-left: 50%;
+    width: 80px;
+    margin-top: 20px;
+}
