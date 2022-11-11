@@ -1,0 +1,7 @@
+packages:
+
+tensorflow==2.5.0
+keras
+flask
+numpy
+
